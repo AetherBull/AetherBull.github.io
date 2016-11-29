@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Aether Bull",
-    "currentPage": "index.html",
+    "currentPage": "Games.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,14 +21,15 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 33,
+    "uniqCompNum": 76,
     "versionPublish": "3.9.2",
     "path": "@PROJECT_PATH@",
     "favicon": "",
     "noImageResize": "",
     "publishType": "local",
     "publishPath": "@PROJECT_PATH@",
-    "google-analytics": ""
+    "google-analytics": "",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -128,7 +129,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Aether Bull</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">Gallery</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Assets</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Isometric</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Textures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">UI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Open-Source Game</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\"><span class=\"mbri-shoping-cart mbr-iconfont mbr-iconfont-btn\"></span>Store</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\" target=\"_blank\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">About</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">Donate</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tools.html\">Tools</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Animations.html\">Animations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Misc.html\">Misc</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Assets</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Isometric</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Textures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">UI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Open-Source Game</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\"><span class=\"mbri-shoping-cart mbr-iconfont mbr-iconfont-btn\"></span>Store</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\" target=\"_blank\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">About</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">Donate</a></li>"
         },
         {
           "_tags": [
@@ -285,23 +286,14 @@
             "paddingBottom": 0,
             "images": [
               {
-                "tags": "Cross-Platform",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Creative",
@@ -359,7 +351,7 @@
               }
             ],
             "spacing": 1,
-            "showText": false,
+            "showText": true,
             "filter": true,
             "bgColor": "fff",
             "filterBgColor": false,
@@ -438,7 +430,7 @@
             "overlayColor": "#222"
           },
           "text": "-FOLLOW-",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/AetherBull\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/aetherbull/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"https://aether.itch.io/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-odnoklassniki\"></i></a> "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/Moonfire_Studio\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/aetherbull/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"https://aether.itch.io/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-odnoklassniki\"></i></a> "
         },
         {
           "_tags": [
@@ -554,7 +546,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Aether Bull</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">Gallery</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Assets</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Isometric</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Textures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">UI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Open-Source Game</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\"><span class=\"mbri-shoping-cart mbr-iconfont mbr-iconfont-btn\"></span>Store</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\" target=\"_blank\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">About</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">Donate</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tools.html\">Tools</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Animations.html\">Animations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Misc.html\">Misc</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Assets</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Isometric</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Textures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">UI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Open-Source Game</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\"><span class=\"mbri-shoping-cart mbr-iconfont mbr-iconfont-btn\"></span>Store</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\" target=\"_blank\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">About</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">Donate</a></li>"
         },
         {
           "_tags": [
@@ -670,7 +662,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Aether Bull</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">Gallery</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Assets</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Isometric</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Textures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">UI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Open-Source Game</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\"><span class=\"mbri-shoping-cart mbr-iconfont mbr-iconfont-btn\"></span>Store</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\" target=\"_blank\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">About</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">Donate</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tools.html\">Tools</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Animations.html\">Animations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Misc.html\">Misc</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Assets</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Isometric</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Textures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">UI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Open-Source Game</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\"><span class=\"mbri-shoping-cart mbr-iconfont mbr-iconfont-btn\"></span>Store</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\" target=\"_blank\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">About</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">Donate</a></li>"
         },
         {
           "_tags": [
@@ -730,7 +722,7 @@
             "showSubTitle": true
           },
           "title": "CONTACT FORM",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "subtitle": "Contact me if you want something made, or have any questions!",
           "form": {
             "action": "aetherbull@gmail.com",
             "alerts": {
@@ -758,7 +750,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
         },
         {
           "_styles": {
@@ -802,7 +794,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBSCRIBE</a>"
         },
         {
           "_inherit": "menu",
@@ -890,7 +882,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Aether Bull</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">Gallery</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Assets</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Isometric</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Textures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">UI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Open-Source Game</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\"><span class=\"mbri-shoping-cart mbr-iconfont mbr-iconfont-btn\"></span>Store</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\" target=\"_blank\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">About</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">Donate</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tools.html\">Tools</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Animations.html\">Animations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Misc.html\">Misc</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Assets</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Isometric</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Textures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">UI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Open-Source Game</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\"><span class=\"mbri-shoping-cart mbr-iconfont mbr-iconfont-btn\"></span>Store</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\" target=\"_blank\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">About</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">Donate</a></li>"
         },
         {
           "_tags": [
@@ -930,8 +922,8 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>0000 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail: aetherbull@gmail.com<br>\nPhone: Hidden<br>\nFaHidden",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "text1": "<p><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Find me in these sites!</b></span></font><br><a href=\"http://www.indiexpo.net/en/search?search%5Bauthor%5D=Aether_\" target=\"_blank\">Indiexpo.net</a></p><p><a href=\"http://gamejolt.com/@AetherBull\" target=\"_blank\">Gamejolt.com</a><br><a href=\"https://aether.itch.io/\" target=\"_blank\">Itch.io</a><br><a href=\"http://armorgames.com/user/Aether_Bull\" target=\"_blank\">Armorgames.com</a><br><a href=\"http://aether-bull.newgrounds.com/\" target=\"_blank\">Newgrounds.com</a><br><a href=\"http://www.kongregate.com/accounts/aetherbull\" target=\"_blank\">Kongragate.com</a><br><br><br>\n<strong>Contacts</strong><br>\nEmail: aetherbull@gmail.com<br>\nPhone: Hidden<br>\nFax: Hidden</p>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Snowman Game Documentation!</li><li>Ideas of games that are gonna be made!</li><li>What this site is about!</li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "aetherbull@gmail.com",
@@ -956,11 +948,11 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Message*"
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Send Message</a>"
         }
       ]
     },
@@ -1056,7 +1048,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Aether Bull</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">Gallery</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Assets</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Isometric</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Textures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">UI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Open-Source Game</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\"><span class=\"mbri-shoping-cart mbr-iconfont mbr-iconfont-btn\"></span>Store</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\" target=\"_blank\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">About</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">Donate</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tools.html\">Tools</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Animations.html\">Animations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Misc.html\">Misc</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Assets</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Isometric</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Textures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">UI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Open-Source Game</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\"><span class=\"mbri-shoping-cart mbr-iconfont mbr-iconfont-btn\"></span>Store</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\" target=\"_blank\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">About</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">Donate</a></li>"
         },
         {
           "_tags": [
@@ -1171,7 +1163,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Aether Bull</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">Gallery</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Assets</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Isometric</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Textures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">UI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Open-Source Game</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\"><span class=\"mbri-shoping-cart mbr-iconfont mbr-iconfont-btn\"></span>Store</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\" target=\"_blank\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">About</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">Donate</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tools.html\">Tools</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Animations.html\">Animations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Misc.html\">Misc</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Assets</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Isometric</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Textures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">UI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Open-Source Game</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\"><span class=\"mbri-shoping-cart mbr-iconfont mbr-iconfont-btn\"></span>Store</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\" target=\"_blank\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">About</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">Donate</a></li>"
         },
         {
           "_tags": [
@@ -1192,12 +1184,228 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Aether Bull."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1w",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Title with Solid Background Color",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1y",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1z",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-20",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-21",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text3": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Abanoub S.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Suffian A.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Jhollman C.",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials1-22",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "count": 3,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true
+          },
+          "title": "WHAT OUR FANTASTIC USERS SAY",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-23",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "MODERN STYLES",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         }
       ]
     },
-    "page6.html": {
+    "Games.html": {
       "settings": {
-        "title": "About Me"
+        "title": "Games",
+        "meta_descr": ""
       },
       "components": [
         {
@@ -1255,7 +1463,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-n",
+          "_anchor": "ext_menu-x",
           "_params": {
             "bgColor": "#282828",
             "fontSize": "1",
@@ -1286,14 +1494,14 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Aether Bull</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">Gallery</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Assets</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Isometric</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Textures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">UI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Open-Source Game</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\"><span class=\"mbri-shoping-cart mbr-iconfont mbr-iconfont-btn\"></span>Store</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\" target=\"_blank\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">About</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">Donate</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tools.html\">Tools</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Animations.html\">Animations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Misc.html\">Misc</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Assets</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Isometric</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Textures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">UI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Open-Source Game</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\"><span class=\"mbri-shoping-cart mbr-iconfont mbr-iconfont-btn\"></span>Store</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\" target=\"_blank\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">About</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">Donate</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-o",
+          "_anchor": "footer1-y",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -1307,12 +1515,280 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Aether Bull."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-13",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "#"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "GAMES MY ME!",
+          "text": "<p>Want a game made, down below you can send me an email (must includeyour game idea)!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/aladdinsixe-2000x1090-74-2000x1090-21.png",
+                "image": "@PROJECT_PATH@/assets/images/aladdinsixe-2000x1090-74.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/aladdin2-2000x1200-12-2000x1200-81.png",
+                "image": "@PROJECT_PATH@/assets/images/aladdin2-2000x1200-12.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/aladdinsixe-2000x1090-70-2000x1090-68.png",
+                "image": "@PROJECT_PATH@/assets/images/aladdinsixe-2000x1090-70.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/aladdin-2000x1419-77-2000x1419-70.png",
+                "image": "@PROJECT_PATH@/assets/images/aladdin-2000x1419-77.png",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": true,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-14",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-12",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": false,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-i",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<p><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Find me in these sites!</b></span></font><br><a href=\"http://www.indiexpo.net/en/search?search%5Bauthor%5D=Aether_\" target=\"_blank\">Indiexpo.net</a></p><p><a href=\"http://gamejolt.com/@AetherBull\" target=\"_blank\">Gamejolt.com</a><br><a href=\"https://aether.itch.io/\" target=\"_blank\">Itch.io</a><br><a href=\"http://armorgames.com/user/Aether_Bull\" target=\"_blank\">Armorgames.com</a><br><a href=\"http://aether-bull.newgrounds.com/\" target=\"_blank\">Newgrounds.com</a><br><a href=\"http://www.kongregate.com/accounts/aetherbull\" target=\"_blank\">Kongragate.com</a><br><br><br>\n<strong>Contacts</strong><br>\nEmail: aetherbull@gmail.com<br>\nPhone: Hidden<br>\nFax: Hidden</p>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Snowman Game Documentation!</li><li>Ideas of games that are gonna be made!</li><li>What this site is about!</li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "aetherbull@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message*"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Send Message</a>"
         }
       ]
     },
-    "page7.html": {
+    "Tools.html": {
       "settings": {
-        "title": "About Me"
+        "title": "Tools",
+        "meta_descr": ""
       },
       "components": [
         {
@@ -1370,7 +1846,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-p",
+          "_anchor": "ext_menu-18",
           "_params": {
             "bgColor": "#282828",
             "fontSize": "1",
@@ -1401,14 +1877,14 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Aether Bull</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">Gallery</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Assets</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Isometric</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Textures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">UI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Open-Source Game</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\"><span class=\"mbri-shoping-cart mbr-iconfont mbr-iconfont-btn\"></span>Store</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\" target=\"_blank\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">About</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">Donate</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tools.html\">Tools</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Animations.html\">Animations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Misc.html\">Misc</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Assets</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Isometric</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Textures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">UI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Open-Source Game</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\"><span class=\"mbri-shoping-cart mbr-iconfont mbr-iconfont-btn\"></span>Store</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\" target=\"_blank\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">About</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">Donate</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-q",
+          "_anchor": "footer1-19",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -1422,12 +1898,226 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Aether Bull."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1a",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "#"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "TOOLS MY ME!",
+          "text": "<p>These are tools by me made for you!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": true,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-1b",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-1c",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": false,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-i",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<p><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Find me in these sites!</b></span></font><br><a href=\"http://www.indiexpo.net/en/search?search%5Bauthor%5D=Aether_\" target=\"_blank\">Indiexpo.net</a></p><p><a href=\"http://gamejolt.com/@AetherBull\" target=\"_blank\">Gamejolt.com</a><br><a href=\"https://aether.itch.io/\" target=\"_blank\">Itch.io</a><br><a href=\"http://armorgames.com/user/Aether_Bull\" target=\"_blank\">Armorgames.com</a><br><a href=\"http://aether-bull.newgrounds.com/\" target=\"_blank\">Newgrounds.com</a><br><a href=\"http://www.kongregate.com/accounts/aetherbull\" target=\"_blank\">Kongragate.com</a><br><br><br>\n<strong>Contacts</strong><br>\nEmail: aetherbull@gmail.com<br>\nPhone: Hidden<br>\nFax: Hidden</p>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Snowman Game Documentation!</li><li>Ideas of games that are gonna be made!</li><li>What this site is about!</li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "aetherbull@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message*"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Send Message</a>"
         }
       ]
     },
-    "page8.html": {
+    "Animations.html": {
       "settings": {
-        "title": "About Me"
+        "title": "Games",
+        "meta_descr": ""
       },
       "components": [
         {
@@ -1485,7 +2175,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-r",
+          "_anchor": "ext_menu-1e",
           "_params": {
             "bgColor": "#282828",
             "fontSize": "1",
@@ -1516,14 +2206,14 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Aether Bull</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">Gallery</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Assets</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Isometric</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Textures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">UI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Open-Source Game</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\"><span class=\"mbri-shoping-cart mbr-iconfont mbr-iconfont-btn\"></span>Store</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\" target=\"_blank\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">About</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">Donate</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tools.html\">Tools</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Animations.html\">Animations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Misc.html\">Misc</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Assets</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Isometric</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Textures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">UI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Open-Source Game</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\"><span class=\"mbri-shoping-cart mbr-iconfont mbr-iconfont-btn\"></span>Store</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\" target=\"_blank\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">About</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">Donate</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-s",
+          "_anchor": "footer1-1f",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -1537,12 +2227,226 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Aether Bull."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1g",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "#"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "ANIMATIONS!",
+          "text": "<p>Animations by me!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": true,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-1h",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-1i",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": false,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-i",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<p><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Find me in these sites!</b></span></font><br><a href=\"http://www.indiexpo.net/en/search?search%5Bauthor%5D=Aether_\" target=\"_blank\">Indiexpo.net</a></p><p><a href=\"http://gamejolt.com/@AetherBull\" target=\"_blank\">Gamejolt.com</a><br><a href=\"https://aether.itch.io/\" target=\"_blank\">Itch.io</a><br><a href=\"http://armorgames.com/user/Aether_Bull\" target=\"_blank\">Armorgames.com</a><br><a href=\"http://aether-bull.newgrounds.com/\" target=\"_blank\">Newgrounds.com</a><br><a href=\"http://www.kongregate.com/accounts/aetherbull\" target=\"_blank\">Kongragate.com</a><br><br><br>\n<strong>Contacts</strong><br>\nEmail: aetherbull@gmail.com<br>\nPhone: Hidden<br>\nFax: Hidden</p>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Snowman Game Documentation!</li><li>Ideas of games that are gonna be made!</li><li>What this site is about!</li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "aetherbull@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message*"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Send Message</a>"
         }
       ]
     },
-    "page9.html": {
+    "Art.html": {
       "settings": {
-        "title": "About Me"
+        "title": "Art",
+        "meta_descr": ""
       },
       "components": [
         {
@@ -1600,7 +2504,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-t",
+          "_anchor": "ext_menu-1k",
           "_params": {
             "bgColor": "#282828",
             "fontSize": "1",
@@ -1631,14 +2535,14 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Aether Bull</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">Gallery</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Assets</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Isometric</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Textures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">UI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Open-Source Game</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\"><span class=\"mbri-shoping-cart mbr-iconfont mbr-iconfont-btn\"></span>Store</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\" target=\"_blank\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">About</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">Donate</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tools.html\">Tools</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Animations.html\">Animations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Misc.html\">Misc</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Assets</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Isometric</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Textures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">UI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Open-Source Game</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\"><span class=\"mbri-shoping-cart mbr-iconfont mbr-iconfont-btn\"></span>Store</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\" target=\"_blank\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">About</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">Donate</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-u",
+          "_anchor": "footer1-1l",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -1652,12 +2556,226 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Aether Bull."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1m",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "#"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "ART MY ME!",
+          "text": "<p>From time to time I get bored and make cool art like these!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": true,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-1n",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-1o",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": false,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-i",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<p><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Find me in these sites!</b></span></font><br><a href=\"http://www.indiexpo.net/en/search?search%5Bauthor%5D=Aether_\" target=\"_blank\">Indiexpo.net</a></p><p><a href=\"http://gamejolt.com/@AetherBull\" target=\"_blank\">Gamejolt.com</a><br><a href=\"https://aether.itch.io/\" target=\"_blank\">Itch.io</a><br><a href=\"http://armorgames.com/user/Aether_Bull\" target=\"_blank\">Armorgames.com</a><br><a href=\"http://aether-bull.newgrounds.com/\" target=\"_blank\">Newgrounds.com</a><br><a href=\"http://www.kongregate.com/accounts/aetherbull\" target=\"_blank\">Kongragate.com</a><br><br><br>\n<strong>Contacts</strong><br>\nEmail: aetherbull@gmail.com<br>\nPhone: Hidden<br>\nFax: Hidden</p>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Snowman Game Documentation!</li><li>Ideas of games that are gonna be made!</li><li>What this site is about!</li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "aetherbull@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message*"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Send Message</a>"
         }
       ]
     },
-    "page10.html": {
+    "Misc.html": {
       "settings": {
-        "title": "Blog"
+        "title": "Misc |",
+        "meta_descr": ""
       },
       "components": [
         {
@@ -1715,7 +2833,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-v",
+          "_anchor": "ext_menu-1q",
           "_params": {
             "bgColor": "#282828",
             "fontSize": "1",
@@ -1746,14 +2864,14 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Aether Bull</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">Gallery</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Assets</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Isometric</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Textures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">UI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Open-Source Game</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\"><span class=\"mbri-shoping-cart mbr-iconfont mbr-iconfont-btn\"></span>Store</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\" target=\"_blank\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">About</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">Donate</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tools.html\">Tools</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Animations.html\">Animations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Misc.html\">Misc</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Assets</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3d</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Isometric</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Textures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">UI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Open-Source Game</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\"><span class=\"mbri-shoping-cart mbr-iconfont mbr-iconfont-btn\"></span>Store</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html\" target=\"_blank\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://aetherbull.github.io/index.html \" target=\"_blank\">About</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">Donate</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-w",
+          "_anchor": "footer1-1r",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -1767,6 +2885,221 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Aether Bull."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1s",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "#"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Misc",
+          "text": "<p>These are stuff that are mixed and don't really have their category!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": true,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-1t",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-1u",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": false,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-i",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<p><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Find me in these sites!</b></span></font><br><a href=\"http://www.indiexpo.net/en/search?search%5Bauthor%5D=Aether_\" target=\"_blank\">Indiexpo.net</a></p><p><a href=\"http://gamejolt.com/@AetherBull\" target=\"_blank\">Gamejolt.com</a><br><a href=\"https://aether.itch.io/\" target=\"_blank\">Itch.io</a><br><a href=\"http://armorgames.com/user/Aether_Bull\" target=\"_blank\">Armorgames.com</a><br><a href=\"http://aether-bull.newgrounds.com/\" target=\"_blank\">Newgrounds.com</a><br><a href=\"http://www.kongregate.com/accounts/aetherbull\" target=\"_blank\">Kongragate.com</a><br><br><br>\n<strong>Contacts</strong><br>\nEmail: aetherbull@gmail.com<br>\nPhone: Hidden<br>\nFax: Hidden</p>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Snowman Game Documentation!</li><li>Ideas of games that are gonna be made!</li><li>What this site is about!</li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "aetherbull@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message*"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Send Message</a>"
         }
       ]
     }
